@@ -13,6 +13,6 @@ function gcd ()
    done
  }
  a=5
- b=35
+ b=40
  gcd a b
  echo " $a and $b の最大公約数 = $num1"
